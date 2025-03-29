@@ -18,3 +18,4 @@ A lowercase ".k" in purls on a background of knits.
 
 ## `image-kp.js` -- knit-purl sheet from an image
 
+#Actualizar
